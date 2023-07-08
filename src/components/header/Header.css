@@ -1,0 +1,39 @@
+.sticky-wrapper {
+  /* margin: 1rem; */
+  display: flex;
+  background-color: rgb(52, 47, 47);
+  padding-left: 7rem;
+}
+
+.header-navbar {
+  padding: 10px 0px;
+  /* width: 100%; */
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  gap: 20rem;
+}
+.imagebox {
+  gap: 5rem;
+}
+.headLogo {
+  width: 300px;
+  /* color: blueviolet; */
+}
+.link {
+  text-decoration: none;
+  color: white;
+}
+.line_list {
+  /* width: 100%; */
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+}
+.link_item {
+  font-size: 20px;
+  color: white;
+  list-style: none;
+}

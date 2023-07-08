@@ -1,0 +1,58 @@
+.currenciesBackgroundPage {
+  background-color: #fafafa;
+}
+.currenciesContainerPage {
+  gap: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  border-bottom: 2px solid #eef0f4;
+}
+.currenciesLogoBox {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.currenciesParagraph {
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  letter-spacing: 2px;
+  margin: -3px 0;
+  gap: 10px;
+}
+.currenciesText {
+  font-size: 30px;
+  color: #337ab7;
+  font-weight: 700;
+  margin: -3px 0;
+}
+.currenciesLogoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+.imageLogo {
+  width: 70px;
+  height: auto;
+}
+.imageWalletName {
+  text-shadow: none;
+  background-color: #337ab7;
+  display: inline;
+  padding: 0.2em 0.6em 0.3em;
+  font-size: 75%;
+  font-weight: bold;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+}

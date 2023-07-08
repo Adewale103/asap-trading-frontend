@@ -1,0 +1,61 @@
+.signInContainer {
+  padding: 10px 0px;
+}
+
+.signInBoxHeader {
+  background: #286090;
+  height: 15vh;
+  padding: 5px 10px;
+}
+.signInHeader {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: 35px;
+  gap: 5px;
+  margin: 5px 0px;
+}
+
+.signInParagraph {
+  font-size: 15px;
+  color: white;
+  opacity: 0.5;
+}
+.signInFormBox {
+  /* height: 50vh; */
+  background: white;
+}
+.signInFormBox {
+  background: #fff;
+  padding: 10px 50px;
+  /* overflow: hidden; */
+}
+.signInInputBox {
+  /* height: 40px; */
+  margin-bottom: 15px;
+  box-shadow: none;
+  border-radius: 5px;
+  border: 1px solid #e5e5e5;
+  width: 90%;
+  padding: 15px 20px;
+
+  /* color: #000; */
+}
+.signInButtonRed {
+  width: 100%;
+  height: 40px;
+  background-color: #f42367;
+  color: white;
+  font-weight: 500;
+  border-radius: 3px;
+  border: none;
+}
+.signInIntroForm {
+  color: #999;
+  padding: 17px 30px 0px;
+  font-size: 12px;
+  text-align: center;
+  line-height: 18px;
+  margin: 0px;
+}
